@@ -1,4 +1,4 @@
-# 🐟 YOLOv8 Fish Detection ; Ultimate Solution
+# 🐟 YOLOv8 Fish Detection ; Solution 1.0
 
 <div align="center">
 
