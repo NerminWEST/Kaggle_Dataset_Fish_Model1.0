@@ -26,4 +26,4 @@ Complete pipeline for training YOLOv8 models on fish detection. Automatically co
 
 **Source:** [Kaggle - Fish Recognition Ground Truth Data](https://www.kaggle.com/datasets/madhushreesannigrahi/fish-recognition-ground-truth-data)  
 
-**technical evaluation**[Tech Report :](https://nerminwest.github.io/web-report-demo/)
+**technical evaluation** [Tech Report](https://nerminwest.github.io/web-report-demo/)
